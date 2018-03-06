@@ -1,0 +1,11 @@
+[default]
+name=hello-world-gtk
+device=local
+runtime=host
+config-opts=
+run-opts=
+prefix=/app
+app-id=
+default=true
+postbuild=
+prebuild=
