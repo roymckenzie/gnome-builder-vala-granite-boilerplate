@@ -1,5 +1,5 @@
 using Gtk;
-// using Granite;
+using Granite;
 
 namespace ValaTutorial {
 
